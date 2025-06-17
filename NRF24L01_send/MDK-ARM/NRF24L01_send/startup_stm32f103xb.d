@@ -1,0 +1,1 @@
+nrf24l01_send\startup_stm32f103xb.o: startup_stm32f103xb.s
